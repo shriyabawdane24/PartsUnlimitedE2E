@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        // My fourth commit
         public int CategoryId { get; set; }
 
         [Required]
